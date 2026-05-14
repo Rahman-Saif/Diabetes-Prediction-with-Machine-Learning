@@ -1,6 +1,7 @@
 # 🩺 Diabetes Prediction using Machine Learning
 
-![Project Banner](images/Diabetes Prediction with Machine Learning)
+![Project Banner](<img width="1920" height="1080" alt="Diabetes Prediction with Machine Learning" src="https://github.com/user-attachments/assets/e6679cb4-31ee-4abd-8621-592818f6f96d" /> )
+
 
 ## 📖 Overview
 This project is a Machine Learning-based diabetes prediction system developed using Python. The main goal of the project is to predict whether a person is diabetic or not based on several medical attributes.
