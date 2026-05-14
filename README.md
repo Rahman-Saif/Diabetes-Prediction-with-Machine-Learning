@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction using Machine Learning
 
-![Project Banner](<img width="1920" height="1080" alt="Diabetes Prediction with Machine Learning" src="https://github.com/user-attachments/assets/e6679cb4-31ee-4abd-8621-592818f6f96d" /> )
+![Project Banner](https://github.com/user-attachments/assets/e6679cb4-31ee-4abd-8621-592818f6f96d)
 
 
 ## 📖 Overview
